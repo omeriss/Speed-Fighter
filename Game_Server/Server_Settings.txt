@@ -1,0 +1,4 @@
+port=16016
+max_players=16
+map=1
+server_name=server
